@@ -22,11 +22,12 @@ Built as part of a full-stack assignment with focus on **real-world usability, c
 - Spring Security (JWT Authentication)
 - JPA / Hibernate
 - REST APIs
+- Followed @Builder design pattern
 
 ###  Database
 - PostgreSQL  (Cloud Hosted)
 
-### 🔹 Deployment
+### Deployment
 - Frontend: Vercel 
 - Backend: Railway 
 - Database:  Railway
@@ -140,8 +141,6 @@ Built as part of a full-stack assignment with focus on **real-world usability, c
 
 ---
 
-
----
 
 ##  API Endpoints (Sample)
 
