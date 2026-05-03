@@ -1,5 +1,5 @@
-// const BASE_URL = import.meta.env.VITE_BASE_URL || 'http://localhost:8080';
-const BASE_URL = 'http://localhost:8080'
+const BASE_URL = import.meta.env.VITE_BASE_URL;
+// const BASE_URL = 'http://localhost:8080'
 
 export const apiEndpoints = {
   LOGIN: `${BASE_URL}/api/auth/login`,
